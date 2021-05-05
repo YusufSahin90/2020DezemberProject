@@ -1,6 +1,8 @@
 Feature: Create
 
 
+  @SmokeTest
+  @RegressionTest
   Scenario: Create a New Item Category
 
 

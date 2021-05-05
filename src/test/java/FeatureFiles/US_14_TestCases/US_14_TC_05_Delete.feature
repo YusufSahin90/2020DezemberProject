@@ -1,6 +1,8 @@
 Feature: Delete
 
 
+  @SmokeTest
+  @RegressionTest
   Scenario: Delete from Dismissal Articles
 
 

@@ -1,6 +1,8 @@
 Feature: Find a Name
 
 
+  @SmokeTest
+  @RegressionTest
   Scenario: Edit a Name and UserType
 
 

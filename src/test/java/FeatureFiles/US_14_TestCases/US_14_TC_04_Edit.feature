@@ -1,6 +1,8 @@
 Feature: Edit a Name
 
 
+  @SmokeTest
+  @RegressionTest
   Scenario: Edit a Name from Dismissal Articles
 
 

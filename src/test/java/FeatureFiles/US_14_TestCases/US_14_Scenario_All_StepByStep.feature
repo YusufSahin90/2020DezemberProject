@@ -1,6 +1,8 @@
 Feature: All Steps
 
 
+  @SmokeTest
+  @RegressionTest
   Scenario: Step By Step from Dismissal Articles
 
 

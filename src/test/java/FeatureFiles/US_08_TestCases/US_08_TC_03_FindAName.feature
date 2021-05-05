@@ -1,6 +1,8 @@
 Feature: Find a Name
 
 
+  @SmokeTest
+  @RegressionTest
   Scenario: Find a Name Item Categories
 
 
