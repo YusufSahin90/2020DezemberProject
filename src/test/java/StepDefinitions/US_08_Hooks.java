@@ -1,7 +1,6 @@
 package StepDefinitions;
 
 import Utilities.Driver;
-import Utilities.ExcelUtility;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -51,7 +50,7 @@ public class US_08_Hooks {
             }
         }
 
-        ExcelUtility.exceleYaz(scenario, strDate, Driver.threadBrowserName.get());
+
 
         // en son çıkmadan ekranı görelim diye bilerek koyduk
         // çalışma mantığı ile ilgilis yok.
