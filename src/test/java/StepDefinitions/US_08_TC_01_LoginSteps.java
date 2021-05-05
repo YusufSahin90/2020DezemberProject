@@ -30,9 +30,9 @@ public class US_08_TC_01_LoginSteps {
         DialogContent dialogContent = new DialogContent();
 
 
-        dialogContent.findElementAndSendKeysFunction("username","daulet2030@gmail.com");
+        dialogContent.findElementAndSendKeysFunction("username","***********");
 
-        dialogContent.findElementAndSendKeysFunction("password","TechnoStudy123@");
+        dialogContent.findElementAndSendKeysFunction("password","***********");
 
 //        try {
 //            Thread.sleep(3000);
